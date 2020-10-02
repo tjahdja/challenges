@@ -1,0 +1,6 @@
+mutable object merupakan object yang dapat diubah elemen didalamnya, sedangkan immutable
+adalah object yang tidak dapat diubah elemen didalamnya. jika di ilustrasikan immutable
+object bagaikan pondasi dari sebuah rumah sekali ia dibangun maka tidak bisa diubah kecuali
+membuat rumah baru atau menghancurkan rumah tersebut. sedangkan mutable object bagaikan genteng
+ataupun jendela dari rumah tersebut kita bisa mengganti atau menghilangkan jendela atau genteng
+tersebut tanpa menghancurkan rumah.
